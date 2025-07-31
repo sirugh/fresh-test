@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/sirugh/fresh-test/
+    type: markup
+
+folders:
+  /products/: /products/default
